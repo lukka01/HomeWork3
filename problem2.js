@@ -1,4 +1,4 @@
-let names = ["luka", "Levani", "Giorgi", "Guga", "Lado", 'Irakla', "Dato"];
+const names = ["luka", "Levani", "Giorgi", "Guga", "Lado", 'Irakla', "Dato"];
 
 console.log(names[2]);
 
